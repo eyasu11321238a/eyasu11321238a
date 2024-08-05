@@ -2,6 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eyasu+Berhane!;" />
 </h1>
+<div align="center" style="margin-bottom=100px">
+  <a>
+    <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="eyasu11321238a" </img>
+  </a>    
+</div>  
 
 <h3 align="center"> I am Intereseted in Machine Learning, Data Scientist and NLP live in Germany</h3>
 
@@ -17,9 +22,7 @@
 
 
 
-<img align="center" alt="Coding" width="600" src="https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/200.gif?cid=ecf05e47fivls6pcec6krda1um3ynzuy0fye1fnsrb7jgrli&ep=v1_gifs_related&rid=200.gif&ct=g">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eyasu11321238a&label=Profile%20views&color=0e75b6&style=flat" alt="eyasu11321238a" /> </p>
 
 
 
